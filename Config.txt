@@ -1,7 +1,11 @@
+[Setup]
+公告地址=https://raw.githubusercontent.com/whtiehack/hello-world/master/README.md
+官方首页=https://raw.githubusercontent.com/whtiehack/hello-world/master/README.md
+自动刷新=0
+刷新速度=120
+
 [Server]
 0=电信服务器|传奇归来|传奇归来|180.109.148.96|7000|0|180.109.148.96|0|0
-[Setup]
-公告地址=http://www.GeeM2.com
-官方首页=http://www.GeeM2.com
-刷新速度=120
-自动刷新=0
+1=电信服务器1|传奇归来|传奇归来|180.109.148.96|7000|1|180.109.148.96|0|0
+2=电信服务器2|传奇归来|传奇归来|180.109.148.96|7000|1|180.109.148.96|0|0
+
