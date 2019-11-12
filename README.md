@@ -1,3 +1,5 @@
+![](https://github.com/whtiehack/hello-world/workflows/.github/workflows/main.yml/badge.svg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/whtiehack/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
