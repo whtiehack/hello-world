@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/whtiehack/hello-world/workflows/testgcc/badge.svg)](hhttps://github.com/whtiehack/hello-world/actions)
+[![Actions Status](https://github.com/whtiehack/hello-world/workflows/CI/badge.svg)](hhttps://github.com/whtiehack/hello-world/actions)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/whtiehack/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
